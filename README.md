@@ -14,3 +14,11 @@ Each pixel draws as much as 60mA (all three RGB LEDs on for full brightness whit
 
 Each order comes with 4 individually controllable pixels.
 
+## License
+Adafruit invests time and resources providing this open source design,
+please support Adafruit and open-source hardware by purchasing
+products from Adafruit!
+
+Designed by Adafruit Industries.
+Creative Commons Attribution, Share-Alike license, check license.txt for more information
+All text above must be included in any redistribution
